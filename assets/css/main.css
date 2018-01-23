@@ -1,0 +1,43 @@
+/* Comienzan estilos para vista previa */
+.background{
+  background-color: #9400D3;
+}
+
+#preview{
+  height: 100vh;
+  background: #9400D3;
+}
+
+#preview > img{
+  padding-left: 140px;
+  padding-top: 210px;
+  padding-right: 70px;
+}
+
+/* Comienzan estilos para web-app */
+
+body{
+  background-color: #9400D3;
+  font-family: 'Montserrat', sans-serif;
+}
+
+header > img{
+  margin-top: 20px;
+  margin-bottom: 90px;
+}
+
+.view-2 > img{
+
+}
+
+.bottom-m{
+  margin-bottom: 80px;
+}
+
+.log-in{
+  margin-top: 60px;
+}
+
+.offset-6 > button{
+  display: inline-block;
+}
